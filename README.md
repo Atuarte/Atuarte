@@ -29,13 +29,13 @@ Sou estudante do Técnico em Desenvolvimento de Sistemas no Senac DF (previsão 
 
 <br>
 
-### 🏆 `>_ /system/achievements`
+<!--### 🏆 `>_ /system/achievements`
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Atuarte&theme=onedark&no-frame=true&no-bg=true&margin-w=15&v=2" alt="Troféus GitHub do Arthur" />
 </div>
 
-<br>
+<br>-->
 
 ### 💻 `>_ /sys/tech_stack`
 
