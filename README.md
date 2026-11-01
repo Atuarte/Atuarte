@@ -10,7 +10,9 @@
 <div align="center">
   <h1 align="center">A R T H U R _ G U E D E S</h1>
   <!-- Typing Animation (Cargos e Foco) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BB7DFF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+Java;Entusiasta+Full+Stack;Interfaces+%26+Artes+Cênicas;>_BUILDING_THE_FUTURE" alt="Typing Roles" />
+ <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BB7DFF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+Java;Entusiasta+Full-Stack;Interfaces+UX/UI;%3E_BUILDING_THE_FUTURE" alt="Typing Roles" />
+</div>
 </div>
 
 ---
@@ -30,7 +32,7 @@ Sou estudante do Técnico em Desenvolvimento de Sistemas no Senac DF (previsão 
 ### 🏆 `>_ /system/achievements`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atuarte&theme=neon&no-frame=true&no-bg=true&margin-w=15" alt="Troféus GitHub do Arthur" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Atuarte&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Troféus GitHub do Arthur" />
 </div>
 
 <br>
