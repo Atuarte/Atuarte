@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="banner.png" alt="Banner Topo" width="100%" />
+  <img src="Banner.gif" alt="Banner Arthur Guedes" width="100%" />
 </div>
 
 <div align="center">
